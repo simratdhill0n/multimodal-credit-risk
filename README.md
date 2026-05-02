@@ -1,2 +1,10 @@
-# multimodal-credit-risk
-PIPEDA-compliant fairness framework for multimodal credit risk assessment — tabular + text + document images with SHAP explainability
+# Multimodal Credit Risk Assessment with PIPEDA Fairness
+
+**Paper 06** — Research in progress
+
+**Research question:** Can PIPEDA-compliant fairness metrics be formally defined 
+and measured for multimodal credit risk models combining tabular, text, and image data?
+
+**Target venue:** ML4Finance @ NeurIPS 2026
+
+**Status:** Experiments running
